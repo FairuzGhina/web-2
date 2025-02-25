@@ -1,0 +1,25 @@
+tugas Praktikum 1
+1. Jelaskan apa yang dimaksud dengan dokumen root?
+Jawab : Root dokumen adalah direktori (folder) yang disimpan di server host Anda dan ditujukan untuk menyimpan halaman web, lokasi yang dapat di akses oleh orang lain pada saat melihat situs web kita.
+
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori C:\xampp\htdocs? Jelaskan jawaban anda!
+Jawab : Dokumen root dalan apache web server tidak harus selalu berada dj direktori C:\xampp\htdocs. Lokasi tersebut merupakan pengaturan defult untuk xampp di windows, tapi kita dapaat mengubahnya sesuai kebutuhan kita/ pengguna.
+
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote, add, commit, push dan checkout!
+Jawab :
+- git init : digunakan untuk membuat repository Git baru di dalam folder proyek.
+- git clone : digunakan untuk menyalin atau menggandakan repository Git yang sudah ada dari remote repository 
+- git remote : digunakan untuk menghubungkan repository lokal ke repository remote lain.
+- git add : digunakan untuk menambahkan perubahan file ke staging area sebelum dilakukan commit.
+- git commit : digunakan untuk menyimpan perubahan di repository lokal dengan adanya pesan deskriptif.
+- git push : digunakan untuk mengirim perubahan dari repository lokal ke repository remote.
+- git checkout : digunakan untuk berpindah cabang (branch) atau commit tertentu.
+
+4. Jelaskan perbedaan antara GitHub dan GitLab?
+Jawab : Github dan gitlab adalah platform pengelola repositori kode yang memiliki fitur dan keunggulan masing-masing. Perbedaannya adalah, github populer untuk proyek komunitas dan sumber yang terbuka. Sedangkan gitlab sendiri menawarkan fitur keamanan dan ci/cd yang terintegrasi.
+
+5. Apa bedanya variable user dengan variable system?
+Jawab : Berbedaan antara variable user dan variable system yaitu, variable user bersifat pribadi untuk satu penggunanya saja. Sedangkan variable system bersifat global untuk seluruh pengguna dalam sistem.
+
+6. Apa persamaan variable system dengan variable constant?
+Jawab : Persamaan antara variable system dengan variable constant adalah keduanya sama-sama berfungsi untuk menyimpan nilai penting yang berpera  dalam kestabilan sistem atau program
