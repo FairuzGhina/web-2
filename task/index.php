@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Personal Web Ghina</title>
+        <title>Personal Web Cindi</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Custom Google font-->
@@ -20,9 +20,9 @@
     <body class="d-flex flex-column h-100">
         <main class="flex-shrink-0">
             <!-- Navigation-->
-            <?php require_once 'partials/navigation.php'; ?>
-            <!-- Header-->
-            <?php require_once 'partials/header.php'; ?>
+            <?php require_once 'partials/navbar.php'; ?>
+            <!-- Contact-->
+            <?php require_once 'partials/contact.php'; ?>
             <!-- About Section-->
             <?php require_once 'partials/about.php'; ?>
         </main>
